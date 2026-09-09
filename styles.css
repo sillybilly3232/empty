@@ -1,3 +1,22 @@
-body{
-    background-color: rgb(115, 115, 212);
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: OldLondon;
+    font-weight: normal;
+    color: white;
+}
+
+@font-face {
+    font-family: OldLondon;
+    src: url(OldLondon.ttf);
+}
+
+p {
+    font-family: OldLondon;
+    color: white;
+}
+
+body {
+    background-color: black;
 }
